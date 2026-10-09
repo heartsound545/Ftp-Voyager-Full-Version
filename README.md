@@ -240,4 +240,4 @@ This repository serves as the official landing page for FTP Voyager. The softwar
 **Get the most recent version of FTP Voyager today!**
 
 ---
-**Last updated:** 2026-10-09 17:19:25 UTC
+**Last updated:** 2026-10-09 22:16:51 UTC
